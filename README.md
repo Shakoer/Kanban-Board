@@ -13,3 +13,5 @@
 - Backlog -> In Progress -> Testing -> Finished
 - double-click to remove.
 - tasks are saved locally.
+
+![kanban](https://github.com/user-attachments/assets/98e93f75-ad10-4ce5-9522-4bef71b5372a)
