@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>kanbanBoard</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    
+    <div id="header">
+      <h1>Kanban-Board</h1>
+      <div>
+        <input id="input" type="text">
+        <button id="add">+</button>
+      </div>
+    </div>
+    
+    <div class="container">
+      
+      <div class="card" id="backlog">
+        <h2>Backlog</h2>
+        <div id="itemsBack">
+          
+        </div>
+        <div class="task-count">0 tasks</div>
+      </div>
+      
+      <div class="card" id="ongoing">
+        <h2>In Progress</h2>
+        <div id="itemsIP">
+          
+        </div>
+        <div class="task-count">0 tasks</div>
+      </div>
+      
+      <div class="card" id="testing">
+        <h2>Testing</h2>
+        <div id="itemsTest">
+          
+        </div>
+        <div class="task-count">0 tasks</div>
+      </div>
+      
+      <div class="card" id="finished">
+        <h2>Finished</h2>
+        <div id="itemsFin">
+          
+        </div>
+        <div class="task-count">0 tasks</div>
+      </div>
+      
+    </div>
+    
+    <script src="script.js"></script>
+  </body>
+</html>
