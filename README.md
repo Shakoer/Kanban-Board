@@ -1,6 +1,6 @@
 # Kanban Board
 - written in HTML, CSS and Javascript.
-- access at [kanban.freesite.online]url
+- access at [Kamban website](kanban.freesite.online)
 
 ## Boards
 - **Backlog**
